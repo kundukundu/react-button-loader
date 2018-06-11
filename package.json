@@ -1,0 +1,19 @@
+{
+  "name": "react-app-button-loader",
+  "description": "React app with button loader and design",
+  "version": "0.0.5",
+  "dependencies": {
+    "react-dom": "16.2.0",
+    "react": "16.2.0",
+    "antd": "3.1.0"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

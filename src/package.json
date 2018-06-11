@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "react-dom": "latest",
+    "react": "latest",
+    "antd": "latest"
+  },
+  "keywords": [],
+  "name": "react-app-button-loader",
+  "description": "React app with button loader and design"
+}
